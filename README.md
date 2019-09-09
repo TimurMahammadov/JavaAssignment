@@ -1,1 +1,1 @@
-# Java Assignment 6 - Black Jack
+# Java Assignment 6 - BlackJack
